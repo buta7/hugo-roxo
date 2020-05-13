@@ -1,7 +1,7 @@
 baseURL = "https://higebobo.github.io/hugo-roxo/"
 languageCode = "ja"
 title = "Hugo Roxo"
-theme = "roxo"
+theme = "roxo-hugo"
 publishDir = "docs"
 summarylength = 25
 

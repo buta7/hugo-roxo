@@ -39,7 +39,7 @@ config.toml
 baseURL = "https://higebobo.github.io/hugo-roxo/"
 languageCode = "ja"
 title = "Hugo Roxo"
-theme = "roxo"
+theme = "roxo-hugo"
 publishDir = "docs"
 ```
 
