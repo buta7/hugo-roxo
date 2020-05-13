@@ -59,7 +59,7 @@ Github>Settings>Gighub Pages>Source>master branch/docs folder
 
 ### 投稿
 
-新規ポートフォリオ
+新規投稿
 
 ```shell
 hugo new blog/hello.md
