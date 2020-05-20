@@ -40,7 +40,7 @@ baseURL = "https://higebobo.github.io/hugo-roxo/"
 languageCode = "ja"
 title = "Hugo Roxo"
 theme = "roxo-hugo"
-publishDir = "docs"
+#publishDir = "docs"
 ```
 
 > github pagesやnetlifyで使う場合はbaseURLのプロトコルはhttpsにすること
@@ -54,6 +54,12 @@ make deploy
 ```
 
 Github>Settings>Gighub Pages>Source>master branch/docs folder
+
+## Github Actionsの利用
+
+* .github/workflows/gh-pages.yamlを作成
+    * ソースはmasterブランチ
+    * 出力はpublicフォルダの内容をgh-pagesブランチ
 
 ## 既存のレポジトリからクローンする場合
 

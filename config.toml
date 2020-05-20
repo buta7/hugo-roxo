@@ -2,7 +2,7 @@ baseURL = "https://higebobo.github.io/hugo-roxo/"
 languageCode = "ja"
 title = "Hugo Roxo"
 theme = "roxo-hugo"
-publishDir = "docs"
+#publishDir = "docs"
 summarylength = 25
 
 # Site Menus
